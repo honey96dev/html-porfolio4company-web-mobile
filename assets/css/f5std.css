@@ -1,19 +1,60 @@
 .figure-scene {
-    opacity: 0.5;
+    /*opacity: 0.5;*/
 }
 
-.L-1-svg {
-    width: 30%;
-    height: auto;
-    margin-left: 50%;
+/*.L-1-svg {*/
+    /*width: 30%;*/
+    /*height: auto;*/
+    /*margin-left: 50%;*/
+/*}*/
+/*.L-2-svg {*/
+    /*width: 60%;*/
+    /*height: auto;*/
+/*}*/
+/*.L-3-svg {*/
+    /*width: 50%;*/
+    /*height: auto;*/
+    /*margin-left: -90%;*/
+    /*transform: rotate(30deg);*/
+/*}*/
+@media (min-width: 576px) {
+
 }
-.L-2-svg {
-    width: 60%;
-    height: auto;
+
+@media (min-width: 576px) {
+    .L-1-svg {
+        width: 30%;
+        height: auto;
+        margin-left: 70%;
+    }
+    .L-2-svg {
+        width: 60%;
+        height: auto;
+        margin-left: 55%;
+    }
+    .L-3-svg {
+        width: 50%;
+        height: auto;
+        margin-left: 0%;
+        transform: rotate(30deg);
+    }
 }
-.L-3-svg {
-    width: 50%;
-    height: auto;
-    margin-left: -90%;
-    transform: rotate(30deg);
+
+@media (min-width: 992px) {
+    .L-1-svg {
+        width: 30%;
+        height: auto;
+        margin-left: 50%;
+    }
+    .L-2-svg {
+        width: 60%;
+        height: auto;
+        margin-left: 20%;
+    }
+    .L-3-svg {
+        width: 50%;
+        height: auto;
+        margin-left: -90%;
+        transform: rotate(30deg);
+    }
 }

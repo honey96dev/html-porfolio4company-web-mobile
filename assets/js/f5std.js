@@ -2,7 +2,7 @@ $("header").mousemove(function(e) {
     // parallaxIt(e, ".slide", -100);
     // parallaxIt(e, "img", -30);
     parallaxIt(e, "div.L-1-svg", -140);
-    parallaxIt(e, "div.L-2-svg", -20);
+    parallaxIt(e, "div.L-2-svg", -35);
     parallaxIt(e, "div.L-3-svg", -50);
 });
 
