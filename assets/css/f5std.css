@@ -23,17 +23,19 @@
 
 @media (min-width: 576px) {
     .L-1-svg {
-        width: 30%;
+        width: 18%;
         height: auto;
         margin-left: 70%;
+        transform: rotate(30deg);
     }
     .L-2-svg {
-        width: 60%;
+        width: 40%;
         height: auto;
         margin-left: 55%;
+        transform: rotate(30deg);
     }
     .L-3-svg {
-        width: 50%;
+        width: 37%;
         height: auto;
         margin-left: 0%;
         transform: rotate(30deg);
@@ -45,11 +47,13 @@
         width: 30%;
         height: auto;
         margin-left: 50%;
+        transform: rotate(30deg);
     }
     .L-2-svg {
         width: 60%;
         height: auto;
         margin-left: 20%;
+        transform: rotate(30deg);
     }
     .L-3-svg {
         width: 50%;
@@ -57,4 +61,11 @@
         margin-left: -90%;
         transform: rotate(30deg);
     }
+}
+
+.technology-gb {
+    background-size: 40%;
+    background-image: url('/assets/images/C-2.svg');
+    background-repeat: no-repeat;
+    background-position: center;
 }
