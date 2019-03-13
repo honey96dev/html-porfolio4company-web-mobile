@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="zxx" class="js">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Softnio">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description"
+          content="ICO Crypto is a modern and elegant landing page, created for ICO Agencies and digital crypto currency investment website.">
+    <!-- Fav Icon  -->
+    <link rel="shortcut icon" href="images/favicon.png">
+    <!-- Site Title  -->
+    <title>RCKTCNSLT-UX Unlimited</title>
+    <!-- Vendor Bundle CSS -->
+    <link rel="stylesheet" href="assets/css/vendor.bundle.css?ver=142">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="assets/css/style.css?ver=142">
+    <link rel="stylesheet" href="assets/css/theme.css?ver=142">
+
+</head>
+
+<body class="theme-dark io-dark io-dark-light" data-spy="scroll" data-target="#mainnav" data-offset="80">
+
+<!-- Header -->
+<header class="site-header is-sticky" id="most-top">
+
+    <!-- Place Particle Js -->
+    <div id="particles-js" class="particles-container particles-js" style="opacity: 0.5;"></div>
+
+    <!-- Navbar -->
+    <div class="navbar navbar-expand-lg is-transparent" id="mainnav">
+        <nav class="container">
+            <a class="navbar-brand animated nav-link menu-link" data-animate="fadeInDown" data-delay=".65"
+               href="#most-top">
+                <img class="logo logo-dark" alt="logo" src="images/logo.png" srcset="images/logo2x.png 2x">
+                <img class="logo logo-light" alt="logo" src="images/logo-white.png" srcset="images/logo-white2x.png 2x">
+            </a>
+
+            <button class="navbar-toggler round" type="button" data-toggle="collapse" data-target="#navbarToggle">
+					<span class="navbar-toggler-icon">
+						<span class="ti ti-menu"></span>
+					</span>
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-end" id="navbarToggle">
+                <ul class="navbar-nav animated" data-animate="fadeInDown" data-delay=".9">
+                    <li class="nav-item"><a class="nav-link menu-link" href="#intro">How It Works</a></li>
+                    <li class="nav-item"><a class="nav-link menu-link" href="#pricing">Pricing</a></li>
+                    <li class="nav-item"><a class="nav-link menu-link" href="#contact">Contact</a></li>
+                </ul>
+                <!--<ul class="navbar-nav navbar-btns animated" data-animate="fadeInDown" data-delay="1.15">-->
+                <!--<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="#">Whitepaper</a></li>-->
+                <!--<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="#apps">Try App</a></li>-->
+                <!--</ul>-->
+            </div>
+        </nav>
+    </div>
+    <!-- End Navbar -->
+
+    <!-- Banner/Slider -->
+    <div id="header" class="banner banner-full banner-curb banner-particle d-flex align-items-center">
+        <div class="container">
+            <div class="banner-content">
+                <div class="row align-items-center mobile-center">
+                    <div class="col-lg-7 col-md-12 order-lg-first">
+                        <div class="header-txt">
+                            <h1 class="animated" style="font-size: 5em !important;" data-animate="fadeInUp" data-delay="1.55">
+                                UI/UX & Web Development
+                            </h1>
+                            <p class="lead color-secondary animated" data-animate="fadeInUp" data-delay="1.65">
+                                RCKTCNSLT empowers businesses to bring their ideas to reality.
+                            </p>
+                            <p class="lead color-secondary animated" data-animate="fadeInUp" data-delay="1.65">
+                                - Get cost efficient mobile and web app development.<br>
+                                - Get re-defined user experiences and exciting brand positionings.<br>
+                                - Get a design you’ve been looking for.
+                            </p>
+                            <p class="lead color-secondary animated" data-animate="fadeInUp" data-delay="1.65">
+                            </p>
+                            <p class="lead color-secondary animated" data-animate="fadeInUp" data-delay="1.65">
+                            </p>
+                            <p class="lead color-secondary animated mb-4" data-animate="fadeInUp" data-delay="1.65">
+                                Our passionate team of designers and developers is ready to help you change the world.
+                            </p>
+                            <!--<ul class="btns animated" data-animate="fadeInUp" data-delay="1.75">-->
+                                <!--<li><a href="#" class="btn">Sign up to Join</a></li>-->
+                                <!--<li><a href="#" class="btn btn-alt">TOKEN DISTRIBUTION</a></li>-->
+                            <!--</ul>-->
+                            <!--<ul class="social">-->
+                                <!--<li class="animated" data-animate="fadeInUp" data-delay="1.85"><a href="#"><em-->
+                                        <!--class="fab fa-facebook-f"></em></a></li>-->
+                                <!--<li class="animated" data-animate="fadeInUp" data-delay="1.9"><a href="#"><em-->
+                                        <!--class="fab fa-twitter"></em></a></li>-->
+                                <!--<li class="animated" data-animate="fadeInUp" data-delay="1.95"><a href="#"><em-->
+                                        <!--class="fab fa-youtube"></em></a></li>-->
+                                <!--<li class="animated" data-animate="fadeInUp" data-delay="2"><a href="#"><em-->
+                                        <!--class="fab fa-github"></em></a></li>-->
+                                <!--<li class="animated" data-animate="fadeInUp" data-delay="2.05"><a href="#"><em-->
+                                        <!--class="fab fa-bitcoin"></em></a></li>-->
+                                <!--<li class="animated" data-animate="fadeInUp" data-delay="2.15"><a href="#"><em-->
+                                        <!--class="fab fa-medium-m"></em></a></li>-->
+                            <!--</ul>-->
+                        </div>
+                    </div><!-- .col  -->
+                    <div class="col-lg-5 col-md-12 order-first">
+                        <div class="header-image animated" data-animate="fadeInRight" data-delay="1.25">
+                            <img src="images/header-image-dark.png" alt="header">
+                            <img class="header-image-icon left-icon" src="images/header-icon-a.png" alt="header-icon">
+                            <img class="header-image-icon right-icon" src="images/header-icon-b.png" alt="header-icon">
+                        </div>
+                    </div><!-- .col  -->
+                </div><!-- .row  -->
+            </div><!-- .banner-content  -->
+        </div><!-- .container  -->
+    </div>
+    <!-- End Banner/Slider -->
+</header>
+<!-- End Header -->
+
+
+<!-- Start Section -->
+<div class="section section-pad section-connect section-light" id="intro">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col">
+                <div class="section-head">
+                    <h1 class="section-title animated" data-animate="fadeInUp" data-delay="0">
+                        How it works
+                        <span>How it works</span>
+                    </h1>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-md-5">
+                <div class="res-m-btm animated" data-animate="fadeInUp" data-delay=".1">
+                    <img src="images/graph-dark-b.png" alt="graph">
+                </div>
+            </div><!-- .col  -->
+            <div class="col-md-6 offset-md-1">
+                <div class="text-block">
+                    <h2 class="animated" data-animate="fadeInUp" data-delay="0">
+                        Simple, transparent & fair. </h2>
+                    <!--<p class="lead animated" data-animate="fadeInUp" data-delay=".1">ICO Crypto is a platform for the-->
+                        <!--future of funding that powering dat for the new equity blockchain.</p>-->
+                    <p class="animated h5 mt-4" data-animate="fadeInUp" data-delay=".2">
+
+                        Choose your plan from the pricing section.
+                        (We only work with a few technology businesses at a time so we'll contact you within 24 hours to let you know if there's a spot available.)
+                    </p>
+                    <p class="animated h5 mt-4" data-animate="fadeInUp" data-delay=".3">
+
+                        Submit your brief.
+                        Share with us your rough sketches, wireframes, brand colors, screen descriptions and other project details.
+                    </p>
+                    <p class="animated h5 mt-4" data-animate="fadeInUp" data-delay=".3">
+
+                        We'll get to work
+                        We'll carefully turn your wireframes, prototypes & concepts into delicious looking and production ready code and/or UI designs.
+                    </p>
+                    <p class="animated h5 mt-4" data-animate="fadeInUp" data-delay=".3">
+
+                        Receive your files
+                        You'll receive your Sketch files in no time. Provide feedback or start using your files in your development.
+                    </p>
+                </div>
+            </div><!-- .col  -->
+        </div><!-- .row  -->
+    </div><!-- .container  -->
+</div>
+<!-- Start Section -->
+
+
+<!-- Start Section -->
+<div class="section section-pad section-connect section-bg-alt" id="pricing">
+    <div class="container">
+
+        <div class="row text-center">
+            <div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                <div class="section-head">
+                    <h1 class="section-title animated" data-animate="fadeInUp" data-delay="0">
+                        Pricing
+                        <span>PRICING</span>
+                    </h1>
+                    <!--<p class="animated" data-animate="fadeInUp" data-delay=".1">ICO Crypto token will be released on the-->
+                        <!--basis of Ethereum and Bitocin platform. It’s compatibility of the token with third-party-->
+                        <!--services wallets, exchanges etc, and provides easy-to-use integration.</p>-->
+                </div>
+            </div>
+        </div>
+
+        <div class="row m-auto text-center">
+
+            <div class="col-lg-6 col-md-12 princing-item my-pricing-card1 mb-5">
+                <div class="pricing-divider ">
+                    <h2 class="text-light mt-5 mb-5">Mobile & Web App<br>Development</h2>
+                    <!--<h4 class="my-0 display-2 text-light font-weight-normal mb-3"><span class="h3">$</span> 450 <span-->
+                            <!--class="h5">/mo</span></h4>-->
+                    <svg class='pricing-divider-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1'
+                         preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px'
+                         xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink'
+                         xmlns='http://www.w3.org/2000/svg' y='0px'>
+                        <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#f2f1ef' opacity='0.6'></path>
+                        <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#f2f1ef' opacity='0.6'></path>
+                        <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716H42.401L43.415,98.342z' fill='#f2f1ef' opacity='0.7'></path>
+                        <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#f2f1ef'></path>
+                    </svg>
+                </div>
+
+                <div class="card-body section-pro mt-0 shadow">
+                    <ul class="list-unstyled mb-5 position-relative">
+                        <li class="h6 color-secondary">
+                            <b class="h4 text-center">€<span class="h4 color-primary">1800</span></b>
+                            <p class="h5 text-center my-pricing-card1">One pagers, landing- and portfolio pages
+                                </p>
+                        </li>
+                        <li class="h6 mt-5 color-secondary">
+                            <b class="h4 text-center">
+                                €<span class="h4 color-primary">2600</span> +
+                                €<span class="h4 color-primary">190</span></b> / Each Additional Page
+
+                            <p class="h5 text-center my-pricing-card1">One pagers, landing- and portfolio pages
+                            </p>
+                        </li>
+                        <li class="h6 mt-5 color-secondary">
+                            <b class="h4 text-center">€<span class="h4 color-primary">3900</span></b>
+                            <p class="h5 text-center my-pricing-card1">WooCommerce Shop
+                            </p>
+                        </li>
+                        <li class="h6 mt-5 color-secondary">
+                            <!--From -->
+                            <b class="h4 text-center">€<span class="h4 color-primary">8300 ~</span></b>
+                            <p class="h5 text-center my-pricing-card1">Web App
+                            </p>
+                        </li>
+
+                        <li class="h6 mt-5 color-secondary">
+                            <!--From -->
+                            <b class="h4 text-center">€<span class="h4 color-primary">15900 ~</span></b>
+                            <p class="h5 text-center my-pricing-card1">Mobile app (Android and iOS)
+                            </p>
+                        </li>
+                    </ul>
+                    <!--<button type="button" class="btn btn-lg btn-block  btn-custom ">Sign up for free</button>-->
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-12 princing-item my-pricing-card2 mb-5 ">
+                <div class="pricing-divider">
+                    <h2 class="text-light mt-5 mb-5">Design<br>Factory</h2>
+                    <!--<h4 class="my-0 display-2 text-light font-weight-normal mb-3"><span class="h3">$</span> 450 <span-->
+                    <!--class="h5">/mo</span></h4>-->
+                    <svg class='pricing-divider-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1'
+                         preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px'
+                         xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink'
+                         xmlns='http://www.w3.org/2000/svg' y='0px'>
+                        <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#f2f1ef' opacity='0.6'></path>
+                        <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#f2f1ef' opacity='0.6'></path>
+                        <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716H42.401L43.415,98.342z' fill='#f2f1ef' opacity='0.7'></path>
+                        <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#f2f1ef'></path>
+                    </svg>
+                </div>
+
+                <div class="card-body section-pro mt-0 shadow">
+                    <ul class="list-unstyled mb-5 position-relative">
+                        <li class="h6 color-secondary">
+                            <b class="h4 text-center">€<span class="h4 color-primary">3100</span></b> / MO
+                            <p class="h5 text-center my-pricing-card1">Startup
+                            </p>
+                        </li>
+                        <li class="h6 mt-5 color-secondary">
+                            <b class="h4 text-center">€<span class="h4 color-primary">4800</span></b> / MO
+                            <p class="h5 text-center my-pricing-card1">Business
+                            </p>
+                        </li>
+                        <li class="h6 mt-5 color-secondary">
+                            <b class="h4 text-center">€<span class="h4 color-primary">8500</span></b> / MO
+                            <p class="h5 text-center my-pricing-card1">Enterprise
+                            </p>
+                        </li>
+                    </ul>
+                    <!--<button type="button" class="btn btn-lg btn-block  btn-custom ">Sign up for free</button>-->
+                </div>
+            </div>
+
+        </div>
+
+    </div><!-- .container  -->
+</div>
+<!-- Start Section -->
+
+
+<!-- Start Section -->
+<div class="section section-pad section-bg section-connect section-light" id="contact">
+    <div class="container">
+
+        <div class="row text-center">
+            <div class="col">
+                <div class="section-head">
+                    <h1 class="section-title animated" data-animate="fadeInUp" data-delay="0">
+                        Technologies
+                        <span>TECHNOLOGIES</span>
+                    </h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+                <h3 class="sub-heading-left-my h2 color-secondary technology-sub-title-my">Backend</h3>
+                <div class="row event-info">
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay="0">
+                            <h6>PHP</h6>
+                            <!--<p>Feb 8, 2018 (9:00AM GMT)</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay=".1">
+                            <h6>Node.js</h6>
+                            <!--<p>900,000 ICC (9%)</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay=".2">
+                            <h6>MySQL</h6>
+                            <!--<p>Feb 20, 2018 (11:00AM GMT)</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay=".3">
+                            <h6>MongoDB</h6>
+                            <!--<p>1 ETH = 650 ICC, 1 BTC = 1940 ICC</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay=".3">
+                            <h6>Json</h6>
+                            <!--<p>1 ETH = 650 ICC, 1 BTC = 1940 ICC</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                </div><!-- .row  -->
+            </div><!-- .col  -->
+
+            <div class="col-lg-3">
+                <h3 class="sub-heading-left-my h2 color-secondary technology-sub-title-my">Frontend</h3>
+                <div class="row event-info">
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay="0">
+                            <h6>HTML5/CSS3</h6>
+                            <!--<p>Feb 8, 2018 (9:00AM GMT)</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay=".1">
+                            <h6>Bootstrap</h6>
+                            <!--<p>900,000 ICC (9%)</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay=".2">
+                            <h6>Javascript</h6>
+                            <!--<p>Feb 20, 2018 (11:00AM GMT)</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay=".3">
+                            <h6>React.js</h6>
+                            <!--<p>1 ETH = 650 ICC, 1 BTC = 1940 ICC</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                </div><!-- .row  -->
+            </div><!-- .col  -->
+
+            <div class="col-lg-3">
+                <h3 class="sub-heading-left-my h2 color-secondary technology-sub-title-my">E-Commerce & CMS</h3>
+                <div class="row event-info">
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay="0">
+                            <h6>Wordpress</h6>
+                            <!--<p>Feb 8, 2018 (9:00AM GMT)</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay=".1">
+                            <h6>WooCommerce</h6>
+                            <!--<p>900,000 ICC (9%)</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                </div><!-- .row  -->
+            </div><!-- .col  -->
+
+            <div class="col-lg-3">
+                <h3 class="sub-heading-left-my h2 color-secondary technology-sub-title-my">Workflow & Team Management</h3>
+                <div class="row event-info">
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay="0">
+                            <h6>Asana</h6>
+                            <!--<p>Feb 8, 2018 (9:00AM GMT)</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay=".1">
+                            <h6>Gsuite</h6>
+                            <!--<p>900,000 ICC (9%)</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay=".2">
+                            <h6>Bitbucket</h6>
+                            <!--<p>Feb 20, 2018 (11:00AM GMT)</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                    <div class="col-sm-12">
+                        <div class="event-single-info animated mb-0 h4" data-animate="fadeInUp" data-delay=".3">
+                            <h6>Github</h6>
+                            <!--<p>1 ETH = 650 ICC, 1 BTC = 1940 ICC</p>-->
+                        </div>
+                    </div><!-- .col  -->
+                </div><!-- .row  -->
+            </div><!-- .col  -->
+        </div>
+
+        <!--<div class="row roadmap-list align-items-end animated" data-animate="fadeInUp" data-delay="0">-->
+            <!--<div class="col-lg">-->
+                <!--<div class="single-roadmap roadmap-sm roadmap-done">-->
+                    <!--<h6>March 2018</h6>-->
+                    <!--<p>Start of the ICO Crypto Platform Development.</p>-->
+                <!--</div>-->
+            <!--</div>&lt;!&ndash; .col  &ndash;&gt;-->
+            <!--<div class="col-lg width-0">-->
+                <!--<div class="single-roadmap roadmap-down roadmap-done">-->
+                    <!--<h6>June 2018</h6>-->
+                    <!--<p>Over 100 merchants on site</p>-->
+                <!--</div>-->
+            <!--</div>&lt;!&ndash; .col  &ndash;&gt;-->
+            <!--<div class="col-lg">-->
+                <!--<div class="single-roadmap roadmap-lg">-->
+                    <!--<h6>June 2018</h6>-->
+                    <!--<p>Launched of mobile Apps</p>-->
+                <!--</div>-->
+            <!--</div>&lt;!&ndash; .col  &ndash;&gt;-->
+            <!--<div class="col-lg width-0">-->
+                <!--<div class="single-roadmap roadmap-down">-->
+                    <!--<h6>August 2018</h6>-->
+                    <!--<p>ICO preparation &amp; Press Tour</p>-->
+                <!--</div>-->
+            <!--</div>&lt;!&ndash; .col  &ndash;&gt;-->
+            <!--<div class="col-lg">-->
+                <!--<div class="single-roadmap roadmap-sm">-->
+                    <!--<h6>October 2018</h6>-->
+                    <!--<p>Start Token Sale Round (1)</p>-->
+                <!--</div>-->
+            <!--</div>&lt;!&ndash; .col  &ndash;&gt;-->
+        <!--</div>&lt;!&ndash; .row  &ndash;&gt;-->
+
+    </div><!-- .container  -->
+</div>
+<!-- Start Section -->
+
+<!-- Start Section -->
+<div class="section section-pad section-bg-alt section-light" id="contact">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col">
+                <div class="section-head">
+                    <h1 class="section-title animated" data-animate="fadeInUp" data-delay="0">
+                        Contact
+                        <span>Contact</span>
+                    </h1>
+                    <p class="animated" data-animate="fadeInUp" data-delay=".1">Any question? Reach out to us and we’ll
+                        get back to you shortly.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <ul class="contact-info">
+                    <li class="animated" data-animate="fadeInUp" data-delay="0"><em class="fa fa-phone"></em><span>+44 0123 4567</span>
+                    </li>
+                    <li class="animated" data-animate="fadeInUp" data-delay=".1"><em class="fa fa-envelope"></em><span>info@yourcompany.com</span>
+                    </li>
+                    <li class="animated" data-animate="fadeInUp" data-delay=".2"><em
+                            class="fa fa-paper-plane"></em><span>Join us on Telegram</span></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <form id="contact-form" class="form-message text-center" action="form/contact.php" method="post">
+                    <div class="form-results"></div>
+                    <div class="input-field animated" data-animate="fadeInUp" data-delay=".3">
+                        <input name="contact-name" type="text" class="input-line required">
+                        <label class="input-title">Your Name</label>
+                    </div>
+                    <div class="input-field animated" data-animate="fadeInUp" data-delay=".4">
+                        <input name="contact-email" type="email" class="input-line required email">
+                        <label class="input-title">Your Email</label>
+                    </div>
+                    <div class="input-field animated" data-animate="fadeInUp" data-delay=".5">
+                        <textarea name="contact-message" class="txtarea input-line required"></textarea>
+                        <label class="input-title">Your Message</label>
+                    </div>
+                    <input type="text" class="d-none" name="form-anti-honeypot" value="">
+                    <div class="input-field animated" data-animate="fadeInUp" data-delay=".6">
+                        <button type="submit" class="btn">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Section -->
+
+
+<!-- Start Section -->
+<div class="section subscribe-section section-pad-md section-bg section-connect">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-6 offset-md-3">
+                <h4 class="section-title-md animated" data-animate="fadeInUp" data-delay="0">Don't miss out, Stay
+                    updated</h4>
+                <form id="subscribe-form" action="form/subscribe.php" method="post"
+                      class="subscription-form inline-form">
+                    <input type="text" name="youremail" class="input-round required email"
+                           placeholder="Enter your email address">
+                    <input type="text" class="d-none" name="form-anti-honeypot" value="">
+                    <button type="submit" class="btn btn-plane">Subscribe</button>
+                    <div class="subscribe-results"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Section -->
+
+
+<!-- Start Section -->
+<div class="section footer-scetion no-pt section-pad-sm section-bg">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-12">
+                <ul class="social">
+                    <li class="animated" data-animate="fadeInUp" data-delay="0"><a href="#"><em
+                            class="fab fa-facebook-f"></em></a></li>
+                    <li class="animated" data-animate="fadeInUp" data-delay=".1"><a href="#"><em
+                            class="fab fa-twitter"></em></a></li>
+                    <li class="animated" data-animate="fadeInUp" data-delay=".2"><a href="#"><em
+                            class="fab fa-youtube"></em></a></li>
+                    <li class="animated" data-animate="fadeInUp" data-delay=".3"><a href="#"><em
+                            class="fab fa-github"></em></a></li>
+                    <li class="animated" data-animate="fadeInUp" data-delay=".4"><a href="#"><em
+                            class="fab fa-bitcoin"></em></a></li>
+                    <li class="animated" data-animate="fadeInUp" data-delay=".5"><a href="#"><em
+                            class="fab fa-medium-m"></em></a></li>
+                </ul>
+                <span class="copyright-text animated" data-animate="fadeInUp" data-delay=".3">
+                    Copyright &copy; <script>const today = new Date(); document.write(today.getFullYear())</script>,
+                    <!--Template Made By <a href="http://softnio.com"-->
+                                                                               <!--target="_blank">Softnio</a> &amp; Handcrafted by iO.-->
+						<!--<span>All trademarks and copyrights belong to their respective owners.</span>-->
+
+                    <a href="#most-top" class="menu-link" > Rocket Consult Ltd</a>.
+						<span>All right reserved.</span>
+					</span>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Section -->
+
+<!-- Preloader !remove please if you do not want -->
+<div id="preloader">
+    <div id="loader"></div>
+    <div class="loader-section loader-top"></div>
+    <div class="loader-section loader-bottom"></div>
+</div>
+<!-- Preloader End -->
+
+<!-- JavaScript (include all script here) -->
+<script src="assets/js/jquery.bundle.js?ver=142"></script>
+<script src="assets/js/script.js?ver=142"></script>
+
+</body>
+</html>
