@@ -276,7 +276,7 @@ a:hover, a:focus, a:active {
 }
 
 .section-connect:before {
-    background: linear-gradient(to right, #2b56f5 0%, #46bdf4 100%);
+    /*background: linear-gradient(to right, #2b56f5 0%, #46bdf4 100%);*/
 }
 
 .event-info:before {
@@ -499,7 +499,7 @@ a:hover, a:focus, a:active {
 }
 
 .contact-info li .fa {
-    background-image: linear-gradient(to right, #2b56f5 0%, #46bdf4 100%);
+    /*background-image: linear-gradient(to right, #2b56f5 0%, #46bdf4 100%);*/
 }
 
 .contact-info-alt li .fa {

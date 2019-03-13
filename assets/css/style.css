@@ -1878,17 +1878,28 @@ hr:last-child, .hr:last-child {
     left: 50%;
     content: "";
     margin-left: -80px;
-    margin-top: -1px;
-    height: 2px;
+    margin-top: -80px;
+    height: 160px;
     width: 160px;
-    background: linear-gradient(to right, #2b56f5 0%, #46bdf4 100%);
-    transform: rotate(90deg);
+    /*border-bottom: 80px transparent;*/
+    /*background: linear-gradient(to right, #2b56f5 0%, #46bdf4 100%);*/
+    transform: rotate(45deg);
+}
+
+.section-connect-my:before {
+    background: #0b0c22;
+}
+
+.section-connect-my-light:before {
+    background: #f2f1ef;
 }
 
 @media only screen and (max-width: 991px) {
     .section-connect:before {
         margin-left: -40px;
+        margin-top: -40px;
         width: 80px;
+        height: 80px;
     }
 }
 
@@ -3509,6 +3520,11 @@ select:focus {
     background-image: -webkit-linear-gradient(left, #2b56f5 0%, #46bdf4 100%);
     background-image: linear-gradient(to right, #2b56f5 0%, #46bdf4 100%);
 }
+
+.btn-my {
+    font-size: 18px !important;
+}
+
 
 .io-azure .btn {
     -ms-border-radius: 4px;
@@ -5559,7 +5575,7 @@ select:focus {
     width: 38px;
     text-align: center;
     color: #f2f1ef;
-    background-image: linear-gradient(to right, #2b56f5 0%, #46bdf4 100%);
+    /*background-image: linear-gradient(to right, #2b56f5 0%, #46bdf4 100%);*/
     border-radius: 50%;
     margin-right: 15px;
 }
@@ -17659,4 +17675,6 @@ ul li {
     -webkit-transform: translate3d(-15px, 0, 0);
     transform: translate3d(-15px, 0, 0);
 }
+
+
 /** END */
