@@ -1,0 +1,19 @@
+.figure-scene {
+    opacity: 0.5;
+}
+
+.L-1-svg {
+    width: 30%;
+    height: auto;
+    margin-left: 50%;
+}
+.L-2-svg {
+    width: 60%;
+    height: auto;
+}
+.L-3-svg {
+    width: 50%;
+    height: auto;
+    margin-left: -90%;
+    transform: rotate(30deg);
+}
