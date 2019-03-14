@@ -17676,5 +17676,9 @@ ul li {
     transform: translate3d(-15px, 0, 0);
 }
 
+.span-section-title {
+    /*font-size: 2em !important;*/
+    margin-top: 0px !important;
+}
 
 /** END */

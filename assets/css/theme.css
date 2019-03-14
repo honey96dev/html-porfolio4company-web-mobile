@@ -41,7 +41,7 @@ a {
 }
 
 a:hover, a:focus, a:active {
-    color: #8255fd;
+    color: #f2f1ef;
 }
 
 .theme-dark h1.color-secondary, .theme-dark h2.color-secondary, .theme-dark h3.color-secondary, .theme-dark h4.color-secondary, .theme-dark h5.color-secondary, .theme-dark h6.color-secondary, .theme-dark blockquote.color-secondary, .light h1.color-secondary, .light h2.color-secondary, .light h3.color-secondary, .light h4.color-secondary, .light h5.color-secondary, .light h6.color-secondary, .light blockquote.color-secondary {
@@ -511,7 +511,7 @@ a:hover, a:focus, a:active {
 }
 
 .social li a:hover {
-    background: #7a0fff;
+    background: #90b6d0;
 }
 
 .select2-container--default .select2-results__option--highlighted[aria-selected] {
