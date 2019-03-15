@@ -219,11 +219,11 @@ a:hover, a:focus, a:active {
 }
 
 .section-head .section-title span, .section-head .section-title:before {
-    /*color: rgba(122, 15, 255, 0.06);*/
+    color: #23282a20;
 
-    background: linear-gradient(to right, #236bec20 0%, #23282a20 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    /*background: linear-gradient(to right, #236bec20 0%, #23282a20 100%);*/
+    /*-webkit-background-clip: text;*/
+    /*-webkit-text-fill-color: transparent;*/
 }
 
 .section-head-s2:before {
